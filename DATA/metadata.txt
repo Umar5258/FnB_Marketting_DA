@@ -1,0 +1,44 @@
+Respondent_ID =============================== (Unique identifier assigned to each respondent in the survey)
+Name ========================================= (Name of the respondent who participated in the survey)
+Age_Group ==================================== (Categorized age group of the respondent: 15-18, 19-30, 31-45, 46-65, 65+)
+Gender ======================================= (Gender of the respondent: Male, Female, Non-binary)
+
+
+City_ID ====================================== (ID of the city where the respondent is located)
+City ========================================== (Name of the city where the respondent is located: Delhi, Mumbai, Bangalore, Chennai, Kolkata, Hyderabad, Ahmedabad, Pune, Jaipur, Lucknow)
+Tier ========================================== (Tier category of the city)
+
+
+
+1. Response_ID =================================(Unique identifier assigned to each response in the survey)
+
+1. Consume_frequency ===========================(How often do you consume energy drinks? Daily, 2-3 times a week, Once a week, 2-3 times a month, Rarely)
+2. Consume_time =============================== (When do you typically consume energy drinks? Before exercise, To stay awake during work/study, For mental alertness, Throughout the day)
+3. Consume_reason ============================= (Main reasons for consuming energy drinks: Increased energy and focus, To combat fatigue, To boost performance, To enhance sports performance, Other)
+4. Typical_consumption_situations ==============(Situations for typical consumption: Sports/exercise, Studying/working late, Social outings/parties, Driving/commuting, Other)
+
+1. Heard_before ================================(Have you heard of our energy drink before today? Yes, No)
+2. Brand_perception ============================(Opinion on the brand name/logo/design: Positive, Neutral, Negative)
+3. General_perception ==========================(Perception of energy drinks in general: Healthy, Effective, Dangerous, Not sure)
+4. Tried_before ================================(Have you ever tried our energy drink before? Yes, No)
+5. Reasons_preventing_trying ===================(If no, reasons preventing you from trying: Not available locally, Not interested, Unfamiliar with the brand, Health concerns, Other)
+
+1. Taste_experience ============================(If yes, rate the taste, flavor, and experience: 1 (Poor) to 5 (Excellent))
+
+1. Current_brands ==============================(Energy drink brands currently consumed or preferred)
+2. Reasons_for_choosing_brands =================(Reasons for choosing specific brands over others: Brand reputation, Taste preference, Effectiveness, Availability, Other)
+
+
+1. Improvements_desired ========================(Desired improvements in energy drinks available: Reduced sugar, Natural ingredients, More flavors, Healthier alternatives, Other)
+2. Ingredients_expected ========================(Expected ingredients in an energy drink: Caffeine, Vitamins, Sugar, Guarana)
+3. Health_concerns =============================(Concerns about health impacts of energy drinks? Yes, No)
+4. Interest_in_natural_or_organic ==============(Interest in energy drinks with natural or organic ingredients? Yes, No, Not Sure)
+
+
+1. Packaging_preference ========================(Preferred packaging or bottle design: Compact cans, Innovative bottles, Eco-friendly, Collectible, Other)
+2. Limited_edition_packaging ===================(Likelihood to buy with limited edition packaging: Yes, No, Not sure)
+
+
+1. Marketing_channels ==========================(Marketing channels often encountered: TV commercials, Online ads, Print media, Outdoor billboards, Other)
+2. Price_range =================================(Considered price range for energy drinks: Below 50, 50-99, 100-150, Above 150)
+3. Purchase_location ===========================(Preferred energy drink purchase locations: Local stores, Supermarkets, Online retailers, Gyms and fitness centers, Other)
